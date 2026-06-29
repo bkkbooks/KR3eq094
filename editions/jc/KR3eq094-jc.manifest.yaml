@@ -1,0 +1,609 @@
+canonical_identifier: bkk:krp/KR3eq094/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq094/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 王樂亭指要
+  identifiers:
+    krp: KR3eq094
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq094.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eq094_001-jc.yaml, hash: 'sha256:5af15e0a0ecb459d53db4b4bb9550523d7fa1540a32454ee2714ad91b5309ba8'}
+  - {seq: 2, filename: KR3eq094_002-jc.yaml, hash: 'sha256:14a89288c92cd0a3d89e86e8507b7b2bd378a7ad36ab74b8ac5780918b7be6b4'}
+  - {seq: 3, filename: KR3eq094_003-jc.yaml, hash: 'sha256:9ec5cb6076cf7a7bdf7cf4445e12a59f1842a5328ac9e7ed0abd8a85ef4ee415'}
+  - {seq: 4, filename: KR3eq094_004-jc.yaml, hash: 'sha256:76ac20e448dd68ae321d1c82a8526638c1a780b08f67454bba81624f4ea37578'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eq094_001-jc.markers.yaml, hash: 'sha256:aa05ecf4b5747eb06cbd8577bb349679aa018de160e89b50b3137e9d322dcab1'}
+  - {seq: 2, role: markers, filename: assets/KR3eq094_002-jc.markers.yaml, hash: 'sha256:7032ed2c66ee4a9580018a930e3754cda35f6ef105a42b4096af1af62e98c5d7'}
+  - {seq: 3, role: markers, filename: assets/KR3eq094_003-jc.markers.yaml, hash: 'sha256:133e459b4f56c7d5e169679c2f8b9bacc1682d493987541589d4c4272db117ed'}
+  - {seq: 4, role: markers, filename: assets/KR3eq094_004-jc.markers.yaml, hash: 'sha256:657270eab1996e8b9220d651ee9556e5fb3b8a1c9f8c57bacb4a1170e4a47eff'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eq094_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 27533
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq094_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 17111
+  label: 時邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq094_jc_001-d2d3
+    span:
+    - body
+    - 17111
+    - 22195
+  label: 咳血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq094_jc_001-d2d4
+    span:
+    - body
+    - 22195
+    - 25376
+  label: 吐血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq094_jc_001-d2d5
+    span:
+    - body
+    - 25376
+    - 27533
+  label: 淋濁
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 27040
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 738
+  label: 非風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d3
+    span:
+    - body
+    - 738
+    - 3113
+  label: 肝風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d4
+    span:
+    - body
+    - 3113
+    - 9673
+  label: 虛證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d5
+    span:
+    - body
+    - 9673
+    - 10200
+  label: 怔忡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d6
+    span:
+    - body
+    - 10200
+    - 11902
+  label: 癲狂
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d7
+    span:
+    - body
+    - 11902
+    - 12690
+  label: 痙厥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d8
+    span:
+    - body
+    - 12690
+    - 18126
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d9
+    span:
+    - body
+    - 18126
+    - 20162
+  label: 上下血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d10
+    span:
+    - body
+    - 20162
+    - 21438
+  label: 遺精
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d11
+    span:
+    - body
+    - 21438
+    - 23087
+  label: 大瘧
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d12
+    span:
+    - body
+    - 23087
+    - 25303
+  label: 便血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d13
+    span:
+    - body
+    - 25303
+    - 26655
+  label: 癃閉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq094_jc_002-d3d14
+    span:
+    - body
+    - 26655
+    - 27040
+  label: 二便
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 22479
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1185
+  label: 疝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d3
+    span:
+    - body
+    - 1185
+    - 1930
+  label: 濕
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d4
+    span:
+    - body
+    - 1930
+    - 2283
+  label: 腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d5
+    span:
+    - body
+    - 2283
+    - 4502
+  label: 痹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d6
+    span:
+    - body
+    - 4502
+    - 5129
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d7
+    span:
+    - body
+    - 5129
+    - 15246
+  label: 腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d8
+    span:
+    - body
+    - 15246
+    - 15582
+  label: 衄血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d9
+    span:
+    - body
+    - 15582
+    - 17718
+  label: 失音
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d10
+    span:
+    - body
+    - 17718
+    - 18625
+  label: 肺痿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d11
+    span:
+    - body
+    - 18625
+    - 19626
+  label: 哮喘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d12
+    span:
+    - body
+    - 19626
+    - 20702
+  label: 氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq094_jc_003-d4d13
+    span:
+    - body
+    - 20702
+    - 22479
+  label: 脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 21840
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 1475
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d3
+    span:
+    - body
+    - 1475
+    - 1883
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d4
+    span:
+    - body
+    - 1883
+    - 2136
+  label: 作酸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d5
+    span:
+    - body
+    - 2136
+    - 2336
+  label: 噯氣
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d6
+    span:
+    - body
+    - 2336
+    - 3456
+  label: 木乘土
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d7
+    span:
+    - body
+    - 3456
+    - 5324
+  label: 噎膈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d8
+    span:
+    - body
+    - 5324
+    - 8877
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d9
+    span:
+    - body
+    - 8877
+    - 11265
+  label: 脘痛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d10
+    span:
+    - body
+    - 11265
+    - 14071
+  label: 癖塊
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d11
+    span:
+    - body
+    - 14071
+    - 15242
+  label: 痿症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d12
+    span:
+    - body
+    - 15242
+    - 15786
+  label: 痰飲
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d13
+    span:
+    - body
+    - 15786
+    - 15986
+  label: 頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d14
+    span:
+    - body
+    - 15986
+    - 16348
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d15
+    span:
+    - body
+    - 16348
+    - 16835
+  label: 脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d16
+    span:
+    - body
+    - 16835
+    - 16935
+  label: 喉症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d17
+    span:
+    - body
+    - 16935
+    - 19451
+  label: 婦人科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d18
+    span:
+    - body
+    - 19451
+    - 20054
+  label: 八脈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d19
+    span:
+    - body
+    - 20054
+    - 20456
+  label: 內外兼症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d20
+    span:
+    - body
+    - 20456
+    - 20752
+  label: 瘰癧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d21
+    span:
+    - body
+    - 20752
+    - 20827
+  label: 疔
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d22
+    span:
+    - body
+    - 20827
+    - 21197
+  label: 骨疽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5d23
+    span:
+    - body
+    - 21197
+    - 21840
+  label: 附薛應嵩醫論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5.d23d2
+    span:
+    - body
+    - 21203
+    - 21437
+  label: 胎產保命方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5.d23d3
+    span:
+    - body
+    - 21437
+    - 21724
+  label: 警醒產後落胎打胎保命格言
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3eq094_jc_004-d5.d23d4
+    span:
+    - body
+    - 21724
+    - 21840
+  label: 忌補寒澀要略
+  type: section
+  level: 3
+hash: sha256:69b8bdc31763c2030d7124f612d6a7bd0b844374d40531ba77b5fcd32c9fdf32
